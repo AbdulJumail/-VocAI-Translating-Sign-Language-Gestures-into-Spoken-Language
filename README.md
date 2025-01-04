@@ -1,0 +1,1 @@
+# -VocAI-Translating-Sign-Language-Gestures-into-Spoken-Language
